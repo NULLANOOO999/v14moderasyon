@@ -1,2 +1,5 @@
-# v14moderasyon
-v14 uyumlu prefix moderasyon altyapısı
+Discord.js v14 moderasyon Botu
+ 
+🚨 Destek İçin
+
+https://discord.gg/aAmBmFZArH
